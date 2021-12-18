@@ -101,6 +101,12 @@ background-size: cover;
  
  }
 
+a.acitve {
+
+text-decoration: underline;
+
+}
+
 img.panoramaImage1 {
 
   align-items: center;
