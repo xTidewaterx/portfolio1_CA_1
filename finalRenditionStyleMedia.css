@@ -1,0 +1,60 @@
+@media (min-width: 600px) {
+   
+    header label {
+        display: none;
+      }
+
+  
+      header { justify-content: start;
+  }
+
+
+       nav {
+       
+           display: block;
+           top:0;
+           position: static;
+   
+       
+         
+           background-color: transparent;
+     
+
+       }
+    
+
+
+
+  .topNav{
+ 
+    margin-left: auto;
+ 
+   
+
+ right: 0;
+
+
+
+ 
+  }
+
+
+ nav {
+    display: block;
+    position: static;
+  
+    
+  }
+
+  nav li {
+    display: inline-block;
+    padding: 0px;
+  }
+
+  header label {
+    display: none;
+  }
+
+  
+}
+
