@@ -157,6 +157,11 @@ html{ font-family: var(--text-paragraph), Verdana, Geneva, Tahoma, sans-serif;}
   text-decoration: underline;
 }
 
+a.active {
+
+text-decoration: underline;
+}
+
     /*our hamburger-menu only functions as a checkbox, it is a unified symbol used in CSS that has an invisible checkbox all over it, thus there is no JavaScript,
     Just HTML and CSS, the checkbox in question*/
 
