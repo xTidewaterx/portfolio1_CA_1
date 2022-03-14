@@ -1,0 +1,10 @@
+@media screen and (min-width: 800px) {
+
+
+    h1.visitbb {
+
+        padding-top: 80px;
+        height: 80%;
+        font-size: 70px;
+    }
+}
